@@ -38,3 +38,8 @@
 # natural number
 
 ![print n natural number](https://user-images.githubusercontent.com/123453398/214795353-89d48e8e-52da-4895-936a-57798e55e832.jpg)
+
+# palindrome
+
+![pailndrome](https://user-images.githubusercontent.com/123453398/214802351-35a87e59-5f28-46be-8e5a-852f11506b62.jpg)
+

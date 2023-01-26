@@ -1,7 +1,7 @@
 # fundametals-of-computing
 # square
 
-![square](https://user-images.githubusercontent.com/123453398/214491688-0a6524f0-d6cb-444c-884c-715c07d54e52.jpg)
+
 
 # cube
 
@@ -21,21 +21,4 @@
 
 # three numbers
 
-![three numbers](https://user-images.githubusercontent.com/123453398/214791225-715d5de6-2973-4152-a4f0-5751e69fcf3e.jpg)
-
-
-# leap year
-
-![leap year](https://user-images.githubusercontent.com/123453398/214791075-e0835f3c-f7f9-47a0-a778-a7845f618d54.jpg)
-
-# marks
-
-![marks](https://user-images.githubusercontent.com/123453398/214791462-bd138909-3ee5-46a2-acc1-dddace03627a.jpg)
-
-# arithmetic operation
-
-![arithmetic operations](https://user-images.githubusercontent.com/123453398/214792011-0688e25f-1af7-4aaf-a867-df894197443b.jpg)
-
-# n natural numbers
-
-![print n natural number](https://user-images.githubusercontent.com/123453398/214792206-fad02c30-8ca0-479d-b229-60a6337ce12a.jpg)
+![three numbers](https://user-images.githubusercontent.com/123453398/214794441-05fd074b-7ae8-44a1-94cf-87dc8fadb7b2.jpg)

@@ -11,3 +11,15 @@
 
 ![area of square](https://user-images.githubusercontent.com/123453398/214495625-793fb44f-2aed-4b4b-a3ed-d93ae5c326bd.jpg)
 
+# a number square
+
+![number its square](https://user-images.githubusercontent.com/123453398/214789968-f1ac9dff-ff2c-4a31-8add-d22170403dce.jpg)
+
+# swap
+
+![swap](https://user-images.githubusercontent.com/123453398/214790145-311bf3f6-9ced-4dd1-92e1-5d8981a86433.jpg)
+
+# three numbers
+
+![Uploading three numbers.jpg…]()
+

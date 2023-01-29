@@ -77,3 +77,5 @@
 # summing even number
 
 ![summing series](https://user-images.githubusercontent.com/123453398/215335971-c96d263e-3947-40af-9ea2-8de94741d712.jpg)
+
+# summing odd number

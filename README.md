@@ -58,3 +58,11 @@
 # number series
 
 ![number series](https://user-images.githubusercontent.com/123453398/215329498-7dfb10f1-dd14-4599-92cc-35bd5a0e8bf5.jpg)
+
+# even numbers
+
+![even number](https://user-images.githubusercontent.com/123453398/215329811-31db4ffe-d324-45ed-82ef-b1b1ad8135a8.jpg)
+
+# odd numbers
+
+![even number](https://user-images.githubusercontent.com/123453398/215330041-caa4d240-8a71-4e2f-800f-903c5220e9e5.jpg)

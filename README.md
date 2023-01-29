@@ -1,7 +1,8 @@
 # fundametals-of-computing
 # square
 
-![square](https://user-images.githubusercontent.com/123453398/214491688-0a6524f0-d6cb-444c-884c-715c07d54e52.jpg)
+![square1](https://user-images.githubusercontent.com/123453398/215329090-0e87feb8-a581-4348-bb94-071a7704acd0.jpg)
+
 
 # cube
 

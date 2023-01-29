@@ -118,4 +118,42 @@
 
 ![revering the digits integer number](https://user-images.githubusercontent.com/123453398/215340896-3c8052d5-1839-44aa-b2cc-43df8e932ae1.jpg)
 
-# 
+# odd or odd integer 17
+
+![odd or odd integer](https://user-images.githubusercontent.com/123453398/215343456-e41ac856-b402-4a73-af26-422fe42cc42f.jpg)
+
+# positive or negative integer 18
+
+![positive or negative integer](https://user-images.githubusercontent.com/123453398/215343584-8af569bf-a6dc-4959-a191-646dc079a069.jpg)
+
+# program hex to  decimal 19
+
+![decimal 19](https://user-images.githubusercontent.com/123453398/215344477-23eef448-06e2-4c67-82b2-ef6d9df32cdf.jpg)
+
+# octal to decimal 20
+
+![octal 20](https://user-images.githubusercontent.com/123453398/215344496-f5e2b5d4-ebef-4b46-a8e3-8c060cd4e737.jpg)
+
+# binary to decimal 21
+
+![binary 21](https://user-images.githubusercontent.com/123453398/215344514-01b3d185-2c51-40b5-86fb-3f377be977d4.jpg)
+
+# decimal to binary 22
+
+![binary 22](https://user-images.githubusercontent.com/123453398/215344529-17b0033b-2915-4c84-84c8-852cf609825b.jpg)
+
+# decimal to octal 23
+
+
+
+# decimal to hexa 24
+
+![binary 24](https://user-images.githubusercontent.com/123453398/215344560-66471159-82d9-43ce-aa82-0ef746ca9af2.jpg)
+
+# print digits an integer 25
+
+![integer 25](https://user-images.githubusercontent.com/123453398/215344647-793f22d7-9ea6-46e4-bbee-723f24d21be2.jpg)
+
+# swapping integer
+
+

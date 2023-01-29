@@ -3,7 +3,6 @@
 
 ![square1](https://user-images.githubusercontent.com/123453398/215329090-0e87feb8-a581-4348-bb94-071a7704acd0.jpg)
 
-
 # cube
 
 ![cube](https://user-images.githubusercontent.com/123453398/214771570-6c58a0d4-e34a-4309-9185-b43f63546a0d.jpg)
@@ -75,3 +74,6 @@
 
 ![seies summing](https://user-images.githubusercontent.com/123453398/215335276-a825d161-a3b5-4fa2-a555-a955ef77efaa.jpg)
 
+# summing even number
+
+![summing series](https://user-images.githubusercontent.com/123453398/215335971-c96d263e-3947-40af-9ea2-8de94741d712.jpg)

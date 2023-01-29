@@ -54,3 +54,7 @@
 # factorial
 
 ![factorial](https://user-images.githubusercontent.com/123453398/214845856-ac126ef7-d66f-4c49-97b4-7e5c398d17b1.jpg)
+
+# number series
+
+![number series](https://user-images.githubusercontent.com/123453398/215329498-7dfb10f1-dd14-4599-92cc-35bd5a0e8bf5.jpg)

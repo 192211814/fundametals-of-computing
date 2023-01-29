@@ -80,7 +80,7 @@
 
 # summing odd number
 
-
+![summing odd](https://user-images.githubusercontent.com/123453398/215338671-c4ac3968-3b21-4c34-806d-753351a952d6.jpg)
 
 # summing up ... n
 
@@ -90,3 +90,8 @@
 
 ![squares of odd nummber](https://user-images.githubusercontent.com/123453398/215338182-6f565064-a503-4717-9dbb-b837fee2bb63.jpg)
 
+# cubes of n number
+
+![cubs of n number](https://user-images.githubusercontent.com/123453398/215338771-28585875-f4d9-43f2-b71e-5ae52894289a.jpg)
+
+#

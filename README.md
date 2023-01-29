@@ -66,3 +66,12 @@
 # odd numbers
 
 ![even number](https://user-images.githubusercontent.com/123453398/215330041-caa4d240-8a71-4e2f-800f-903c5220e9e5.jpg)
+
+# fibonacci
+
+![fibonaci](https://user-images.githubusercontent.com/123453398/215334977-58b7e39e-b29e-4428-a7dd-41fa85b3274f.jpg)
+
+# summing series
+
+![seies summing](https://user-images.githubusercontent.com/123453398/215335276-a825d161-a3b5-4fa2-a555-a955ef77efaa.jpg)
+

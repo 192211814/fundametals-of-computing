@@ -1,0 +1,14 @@
+#include<stdio.h>
+int main()
+{
+  int n, sum=0;
+  printf("Enter n value: "); scanf("%d", &n); for (int i=1; i<=n; i=i+2)
+  scanf("%d" ,&n);
+  for(int i=1; i<=n; i=i+2)
+  {
+    sum +=1;
+   }
+printf("sum of odd numbers from 1 to %d is: %d\n", n, sum);
+
+return 0;
+}

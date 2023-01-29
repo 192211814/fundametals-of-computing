@@ -76,6 +76,17 @@
 
 # summing even number
 
-![summing series](https://user-images.githubusercontent.com/123453398/215335971-c96d263e-3947-40af-9ea2-8de94741d712.jpg)
+![even number summing](https://user-images.githubusercontent.com/123453398/215337021-658811a7-8056-4cdc-9ab1-52c6d3ab3b2b.jpg)
 
 # summing odd number
+
+
+
+# summing up ... n
+
+![summing  n](https://user-images.githubusercontent.com/123453398/215337596-26924cd3-664a-42bf-b604-40b18348f91b.jpg)
+
+# squares of odd number
+
+![squares of odd nummber](https://user-images.githubusercontent.com/123453398/215338182-6f565064-a503-4717-9dbb-b837fee2bb63.jpg)
+

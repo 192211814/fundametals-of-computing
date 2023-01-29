@@ -94,4 +94,28 @@
 
 ![cubs of n number](https://user-images.githubusercontent.com/123453398/215338771-28585875-f4d9-43f2-b71e-5ae52894289a.jpg)
 
-#
+# factioral 11
+
+![factorial 11](https://user-images.githubusercontent.com/123453398/215339706-5a441e76-d138-4035-b489-554ef28a23b5.jpg)
+
+# printing digits 14
+
+![printing digits 14](https://user-images.githubusercontent.com/123453398/215340387-d16949c0-2e8f-485e-89d5-9ecb7792f372.jpg)
+
+# armstrong 12
+
+![armstrong 12](https://user-images.githubusercontent.com/123453398/215340512-afac2a0c-d215-4ca0-9f0b-4170fc14db2d.jpg)
+
+# average n number 13
+
+![average n number](https://user-images.githubusercontent.com/123453398/215340643-646c0d34-c295-4720-b06f-644fd463dc5a.jpg)
+
+# integer number printing 15
+
+![integer number printing](https://user-images.githubusercontent.com/123453398/215340796-c022960b-962b-4d7c-87ac-6ef1d9395c46.jpg)
+
+# revering the digits integer number 16
+
+![revering the digits integer number](https://user-images.githubusercontent.com/123453398/215340896-3c8052d5-1839-44aa-b2cc-43df8e932ae1.jpg)
+
+# 

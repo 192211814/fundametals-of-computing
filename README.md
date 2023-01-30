@@ -44,12 +44,6 @@
 ![pailndrome](https://user-images.githubusercontent.com/123453398/214802351-35a87e59-5f28-46be-8e5a-852f11506b62.jpg)
 
 
-
-
-
-
-
-
 # factorial
 
 ![factorial](https://user-images.githubusercontent.com/123453398/214845856-ac126ef7-d66f-4c49-97b4-7e5c398d17b1.jpg)
@@ -156,4 +150,5 @@
 
 # swapping integer
 
+![swapping 26](https://user-images.githubusercontent.com/123453398/215376804-174d35ad-9169-4970-be07-4aed3aca9097.jpg)
 
